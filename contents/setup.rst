@@ -2,7 +2,7 @@
 Cài đặt môi trường lập trình Kotlin với Atom trên hệ điều hành Ubuntu 16.04.3
 ###############################################################################
 
-* Thực hiện: Thi Minh Nhựt - Email: `thiminhnhut\@gmail.com <thiminhnhut@gmail.com >`_
+* Thực hiện: Thi Minh Nhựt - Email: `thiminhnhut\@gmail.com <thiminhnhut@gmail.com>`_
 
 * Thời gian: Ngày 15 tháng 11 năm 2017
 
