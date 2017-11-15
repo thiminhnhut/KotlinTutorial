@@ -25,23 +25,23 @@ Cài đặt Kotlin compiler
 
 * Ví dụ được thư mục ``kotlin-compiler-1.1.60.zip`` giải nén thư mục ``kotlinc`` vừa tải về và di chuyển đến đường dẫn ``/usr/local/``:
 
-.. code-block:: bash
+  .. code-block:: bash
 
-   $ sudo mv kotlinc /usr/local/
+     $ sudo mv kotlinc /usr/local/
 
 * Thêm đường dẫn vào biến môi trường trong file ``/etc/environment``
 
-.. code-block:: bash
+  .. code-block:: bash
 
-    $ sudo nano /etc/environment
+      $ sudo nano /etc/environment
 
 * Thêm đường dẫn ``/usr/local/kotlinc/bin/`` vào biến ``PATH``. Ví dụ: ``PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/kotlinc/bin"``
 
 * Cập nhật lại biến môi trường
 
-.. code-block:: bash
+  .. code-block:: bash
 
-    $ source /etc/environment
+      $ source /etc/environment
 
 Cài đặt package cho Atom
 =========================
