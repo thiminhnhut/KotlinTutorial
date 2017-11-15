@@ -6,6 +6,10 @@ Cài đặt môi trường lập trình Kotlin với Atom trên hệ điều hà
 
 * Thời gian: Ngày 15 tháng 11 năm 2017
 
+.. contents:: **Nội dung**
+
+.. sectnum::
+  
 Nguồn tham khảo
 ****************
 
@@ -14,10 +18,6 @@ Nguồn tham khảo
 2. `Kotlin Tutorial # 5 | Install Kotlin in Linux (Ubuntu) <https://www.youtube.com/watch?v=zK-Ph0d74vI>`_
 
 3. `Working with the Command Line Compiler <https://kotlinlang.org/docs/tutorials/command-line.html>`_
-
-.. contents:: **Nội dung**
-
-.. sectnum::
 
 Hướng dẫn cài đặt môi trường lập trình Kotlin trên hệ điều hành Ubuntu 16.04.3
 *******************************************************************************
