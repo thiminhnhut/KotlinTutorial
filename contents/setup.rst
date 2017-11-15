@@ -26,14 +26,12 @@ Cài đặt Kotlin compiler
 * Ví dụ được thư mục ``kotlin-compiler-1.1.60.zip`` giải nén thư mục ``kotlinc`` vừa tải về và di chuyển đến đường dẫn ``/usr/local/``:
 
 .. code-block:: bash
-   :linenos:
 
    $ sudo mv kotlinc /usr/local/
 
 * Thêm đường dẫn vào biến môi trường trong file ``/etc/environment``
 
 .. code-block:: bash
-    :linenos:
 
     $ sudo nano /etc/environment
 
@@ -42,7 +40,6 @@ Cài đặt Kotlin compiler
 * Cập nhật lại biến môi trường
 
 .. code-block:: bash
-    :linenos
 
     $ source /etc/environment
 
