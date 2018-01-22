@@ -9,7 +9,7 @@ Cài đặt môi trường lập trình Kotlin với Atom trên hệ điều hà
 .. contents:: **Nội dung**
 
 .. sectnum::
-  
+
 Nguồn tham khảo
 ****************
 
@@ -25,7 +25,10 @@ Hướng dẫn cài đặt môi trường lập trình Kotlin trên hệ điều
 Cài đặt Kotlin compiler
 ========================
 
-* Tải source của Kotlin: `GitHub Releases <https://github.com/JetBrains/kotlin/releases/tag/v1.1.60>`_
+Trên hệ điều hành Ubuntu
+-------------------------
+
+* Tải source của Kotlin: `GitHub Releases <https://github.com/JetBrains/kotlin/releases/tag/v1.2.20>`_
 
 * Ví dụ được thư mục ``kotlin-compiler-1.1.60.zip`` giải nén thư mục ``kotlinc`` vừa tải về và di chuyển đến đường dẫn ``/usr/local/``:
 
@@ -46,6 +49,16 @@ Cài đặt Kotlin compiler
   .. code-block:: bash
 
       $ source /etc/environment
+
+
+Trên hệ điều hành Windows
+-------------------------
+
+* Tải source của Kotlin: `GitHub Releases <https://github.com/JetBrains/kotlin/releases/tag/v1.2.20>`_
+
+* Ví dụ được thư mục ``kotlin-compiler-1.1.60.zip`` giải nén thư mục ``kotlinc``.
+
+* Thiết lập ``PATH``: ví dụ ``D:\SourceBuild\kotlinc\bin``.
 
 Cài đặt package cho Atom
 =========================
