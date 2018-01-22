@@ -19,8 +19,8 @@ Nguồn tham khảo
 
 3. `Working with the Command Line Compiler <https://kotlinlang.org/docs/tutorials/command-line.html>`_
 
-Hướng dẫn cài đặt môi trường lập trình Kotlin trên hệ điều hành Ubuntu 16.04.3
-*******************************************************************************
+Hướng dẫn cài đặt môi trường lập trình Kotlin trên hệ điều hành Ubuntu 16.04.3 và hệ điều hành Windows
+*******************************************************************************************************
 
 Cài đặt Kotlin compiler
 ========================
