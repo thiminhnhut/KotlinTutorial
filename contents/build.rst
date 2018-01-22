@@ -21,15 +21,15 @@ Nội dung thực hiện
 Compile the application
 ========================
 
-  .. code-block:: bash
+.. code-block:: bash
 
-    $ kotlinc hello.kt -include-runtime -d hello.jar
+  $ kotlinc hello.kt -include-runtime -d hello.jar
 
-    $ java -jar hello.jar
+  $ java -jar hello.jar
 
 Compiling a library
 ====================
 
-  .. code-block:: bash
+.. code-block:: bash
 
-    $ kotlinc hello.kt -d hello.jar
+  $ kotlinc hello.kt -d hello.jar
